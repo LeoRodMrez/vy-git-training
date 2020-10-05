@@ -1,2 +1,2 @@
 # vy-git-training
-Repo for git exercises
+This repo is for git exercises. This info is relevant.
